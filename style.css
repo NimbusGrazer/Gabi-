@@ -1,0 +1,36 @@
+header{ 
+border-radius:50px; 
+margin: 30px; 
+padding: 50px; 
+border-style: solid;
+color: orange; 
+background-color: green; 
+}
+
+footer{ 
+border-radius:30px; 
+margin: 20px; 
+padding: 10px; 
+border-style: double; 
+color: purple; 
+background-color: grey; 
+
+}
+
+.favClass{ 
+border-style:dashed; 
+border-radius: 50 px; 
+background-color:yellow; 
+color: blue; 
+padding:60px; 
+margin:40px;
+}
+
+.conClass{ 
+border-style: double 
+border-radius: 100px; 
+background-color: orange 
+color:green; 
+padding:10px; 
+margin: 15px; 
+}
